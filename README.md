@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=E2875888382&include_all_commits=true&hide_border=true)](https://github.com/E2875888382)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E2875888382&layout=compact)](https://github.com/E2875888382)
 <!--
